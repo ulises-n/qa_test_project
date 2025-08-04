@@ -68,8 +68,6 @@ QA_TEST_PROJECT/
 ├── test_docs/
 │ └── QA_Proyecto_LoginRegistro_TestCases_Bugs.xlsx
 └── README.md
-
-
 ---
 
 ## 📌 ¿Qué aprendí haciendo este proyecto?
@@ -78,3 +76,5 @@ QA_TEST_PROJECT/
 - Documentar profesionalmente resultados de QA  
 - Validar datos con SQL directamente en la base de datos  
 - Simular el ciclo completo de aseguramiento de calidad de software
+
+---
