@@ -70,6 +70,7 @@ QA_TEST_PROJECT/
 │   └── QA_Proyecto_LoginRegistro_TestCases_Bugs.xlsx
 └── README.md
 
+---
 
 ## 📌 ¿Qué aprendí haciendo este proyecto?
 
