@@ -43,32 +43,33 @@ Se documentó al menos **1 bug funcional**, incluyendo:
 
 ---
 
-## 📂 Estructura del repositorio
+## 📁 Estructura del repositorio
 
+```text
 QA_TEST_PROJECT/
 ├── evidencias/
-│ ├── captura_bug01_error_email_duplicado.png
-│ ├── captura_tc01_registro_exitoso.png
-│ ├── captura_tc02_email_duplicado.png
-│ ├── captura_tc03_login_exitoso.png
-│ ├── captura_tc04_login_contraseña_incorrecta.png
-│ ├── captura_tc05_login_usuario_inexistente.png
-│ ├── sql_tc01_validacion_registro.sql
-│ ├── sql_tc02_validacion_email_duplicado.sql
-│ ├── sql_tc03_validacion_login.sql
-│ ├── sql_tc04_validacion_contraseña_incorrecta.sql
-│ └── sql_tc05_validacion_usuario_no_registrado.sql
+│   ├── captura_bug01_error_email_duplicado.png
+│   ├── captura_tc01_registro_exitoso.png
+│   ├── captura_tc02_email_duplicado.png
+│   ├── captura_tc03_login_exitoso.png
+│   ├── captura_tc04_login_contraseña_incorrecta.png
+│   ├── captura_tc05_login_usuario_inexistente.png
+│   ├── sql_tc01_validacion_registro.sql
+│   ├── sql_tc02_validacion_email_duplicado.sql
+│   ├── sql_tc03_validacion_login.sql
+│   ├── sql_tc04_validacion_contraseña_incorrecta.sql
+│   └── sql_tc05_validacion_usuario_no_registrado.sql
 ├── src_code/
-│ ├── assets/
-│ │ └── style.css
-│ ├── connection.php
-│ ├── index.php
-│ ├── login.php
-│ └── register.php
+│   ├── assets/
+│   │   └── style.css
+│   ├── connection.php
+│   ├── index.php
+│   ├── login.php
+│   └── register.php
 ├── test_docs/
-│ └── QA_Proyecto_LoginRegistro_TestCases_Bugs.xlsx
+│   └── QA_Proyecto_LoginRegistro_TestCases_Bugs.xlsx
 └── README.md
----
+
 
 ## 📌 ¿Qué aprendí haciendo este proyecto?
 
